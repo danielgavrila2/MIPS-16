@@ -1,8 +1,6 @@
 # ⚙️ MIPS-16: 16-bit Pipelined Processor in VHDL  
 > 🎓 *Educational MIPS CPU Architecture Implementation with Bubble Sort Demo*
 
-![MIPS Architecture Banner](https://raw.githubusercontent.com/danielgavrila2/MIPS-16/main/docs/images/mips_banner.png)
-
 ---
 
 ## 🧭 Table of Contents
@@ -276,5 +274,3 @@ Contributors: Community & Open-Source enthusiasts 💙
 > 📘 Inspired by the MIPS architecture and educational CPU projects at various universities.
 
 ---
-
-![Footer Banner](https://raw.githubusercontent.com/danielgavrila2/MIPS-16/main/docs/images/footer.png)
