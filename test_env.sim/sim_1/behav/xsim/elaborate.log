@@ -1,0 +1,26 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot test_env_behav xil_defaultlib.test_env -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3813] value in initialization depends on signal 'instr' [D:/CA_Projects/test_env/test_env.srcs/sources_1/new/MainControl.vhd:24]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.mpg [mpg_default]
+Compiling architecture behavioral of entity xil_defaultlib.SSD [ssd_default]
+Compiling architecture behavioral of entity xil_defaultlib.InstructionFetch [instructionfetch_default]
+Compiling architecture behavioral of entity xil_defaultlib.InstructionDecode [instructiondecode_default]
+Compiling architecture behavioral of entity xil_defaultlib.MainControl [maincontrol_default]
+Compiling architecture behavioral of entity xil_defaultlib.ExecuteUnit [executeunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MEM [mem_default]
+Compiling architecture behavioral of entity xil_defaultlib.test_env
+Built simulation snapshot test_env_behav
